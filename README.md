@@ -1,6 +1,8 @@
 # Plant-Disease-Detection
+
 dataset link:https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
-ntroduction:
+
+Introduction:
 Plant diseases can have a significant impact on crop yield and quality, leading to economic losses and potential food scarcity. Rapid and accurate detection of plant diseases is crucial for timely intervention and effective management. In recent years, deep learning techniques, such as convolutional neural networks (CNNs), have shown promising results in automated plant disease detection.
 
 Project Overview:
